@@ -10,6 +10,8 @@ namespace Test_2021_10_01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
+            Console.ReadKey();
         }
     }
 }
