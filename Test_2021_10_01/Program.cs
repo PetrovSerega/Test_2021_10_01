@@ -11,6 +11,7 @@ namespace Test_2021_10_01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.WriteLine("Hello 2!");
             Console.ReadKey();
         }
     }
