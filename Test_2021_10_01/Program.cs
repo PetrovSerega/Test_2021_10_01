@@ -16,6 +16,7 @@ namespace Test_2021_10_01
             Console.WriteLine("Hello 3!");
             Console.WriteLine("Hello 5!");
             Console.WriteLine("Hello 6!");
+            Console.WriteLine("Hello 7!");
             Console.ReadKey();
         }
     }
